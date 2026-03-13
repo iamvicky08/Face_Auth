@@ -1,0 +1,146 @@
+[LOG] 12:28:36 : Blink Detected
+[LOG] 12:28:36 : Head Moved RIGHT
+[LOG] 12:28:37 : Blink Detected
+[LOG] 12:28:37 : Blink Detected
+[LOG] 12:28:37 : Head Moved RIGHT
+[LOG] 12:28:38 : Head Moved LEFT
+[LOG] 12:28:38 : Head Moved LEFT
+[LOG] 12:28:38 : Blink Detected
+[LOG] 12:28:38 : Head Moved LEFT
+[LOG] 12:28:38 : Head Moved LEFT
+[LOG] 12:28:39 : Head Moved LEFT
+[LOG] 12:28:39 : Head Moved RIGHT
+[LOG] 12:28:39 : Head Moved RIGHT
+[LOG] 12:28:39 : Head Moved RIGHT
+[LOG] 12:28:39 : Head Moved RIGHT
+[LOG] 12:28:39 : Head Moved RIGHT
+[LOG] 12:28:39 : Head Moved LEFT
+[LOG] 12:28:40 : Blink Detected
+[LOG] 12:28:40 : Blink Detected
+[LOG] 12:28:40 : Blink Detected
+[LOG] 12:28:40 : Blink Detected
+[LOG] 12:28:41 : Blink Detected
+[LOG] 12:28:41 : Blink Detected
+[LOG] 12:28:42 : Blink Detected
+[RESULT] 12:28:43 : REAL USER (LIVENESS PASSED)
+
+[LOG] 12:29:16 : Head Moved RIGHT
+[LOG] 12:29:16 : Head Moved RIGHT
+[LOG] 12:29:16 : Head Moved RIGHT
+[LOG] 12:29:18 : Head Moved RIGHT
+[LOG] 12:29:18 : Head Moved RIGHT
+[LOG] 12:29:18 : Head Moved RIGHT
+[LOG] 12:29:18 : Head Moved LEFT
+[LOG] 12:29:20 : Head Moved LEFT
+[LOG] 12:29:20 : Head Moved RIGHT
+[RESULT] 12:29:22 : SPOOF DETECTED
+
+[LOG] 12:33:48 : Head Moved LEFT
+[LOG] 12:33:48 : Head Moved LEFT
+[LOG] 12:33:49 : Blink Detected
+[LOG] 12:33:50 : Blink Detected
+[LOG] 12:33:51 : Blink Detected
+[LOG] 12:33:52 : Head Moved LEFT
+[LOG] 12:33:52 : Head Moved LEFT
+[LOG] 12:33:52 : Head Moved LEFT
+[LOG] 12:33:52 : Head Moved LEFT
+[LOG] 12:33:52 : Blink Detected
+[LOG] 12:33:53 : Head Moved RIGHT
+[LOG] 12:33:53 : Head Moved RIGHT
+[LOG] 12:33:53 : Head Moved RIGHT
+[LOG] 12:33:53 : Blink Detected
+[LOG] 12:33:55 : Blink Detected
+[LOG] 12:33:55 : Head Moved RIGHT
+[RESULT] 12:33:57 : REAL USER (LIVENESS PASSED)
+
+[LOG] 19:05:24 : Head Moved LEFT
+[LOG] 19:05:24 : Head Moved RIGHT
+[LOG] 19:05:27 : Head Moved LEFT
+[RESULT] 19:05:28 : SPOOF DETECTED
+
+[LOG] 19:05:46 : Head Moved LEFT
+[LOG] 19:05:46 : Head Moved LEFT
+[LOG] 19:05:46 : Head Moved LEFT
+[LOG] 19:05:46 : Head Moved LEFT
+[LOG] 19:05:47 : Blink Detected
+[LOG] 19:05:48 : Blink Detected
+[LOG] 19:05:49 : Head Moved LEFT
+[LOG] 19:05:49 : Head Moved LEFT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved LEFT
+[LOG] 19:05:49 : Head Moved LEFT
+[LOG] 19:05:49 : Head Moved LEFT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:49 : Head Moved RIGHT
+[LOG] 19:05:50 : Head Moved LEFT
+[LOG] 19:05:50 : Head Moved LEFT
+[LOG] 19:05:50 : Head Moved LEFT
+[LOG] 19:05:50 : Head Moved LEFT
+[LOG] 19:05:50 : Head Moved LEFT
+[LOG] 19:05:51 : Blink Detected
+[LOG] 19:05:51 : Blink Detected
+[LOG] 19:05:52 : Head Moved LEFT
+[LOG] 19:05:52 : Head Moved LEFT
+[LOG] 19:05:52 : Head Moved LEFT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved LEFT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:52 : Head Moved RIGHT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved RIGHT
+[LOG] 19:05:53 : Head Moved LEFT
+[LOG] 19:05:53 : Head Moved RIGHT
+[LOG] 19:05:53 : Head Moved RIGHT
+[LOG] 19:05:53 : Head Moved RIGHT
+[LOG] 19:05:53 : Head Moved RIGHT
+[LOG] 19:05:53 : Head Moved RIGHT
+[LOG] 19:05:54 : Head Moved RIGHT
+[LOG] 19:05:54 : Head Moved LEFT
+[LOG] 19:05:54 : Head Moved LEFT
+[LOG] 19:05:54 : Head Moved LEFT
+[LOG] 19:05:55 : Blink Detected
+[LOG] 19:05:55 : Blink Detected
+[RESULT] 19:05:56 : REAL USER (LIVENESS PASSED)
+
+[LOG] 14:17:28 : Blink Detected
+[LOG] 14:17:28 : Blink Detected
+[LOG] 14:17:30 : Blink Detected
+[LOG] 14:17:30 : Blink Detected
+[LOG] 14:17:30 : Blink Detected
+[LOG] 14:17:30 : Head Moved RIGHT
+[LOG] 14:17:30 : Head Moved RIGHT
+[LOG] 14:17:30 : Blink Detected
+[LOG] 14:17:30 : Head Moved RIGHT
+[LOG] 14:17:30 : Head Moved RIGHT
+[LOG] 14:17:30 : Head Moved RIGHT
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Blink Detected
+[LOG] 14:17:31 : Head Moved LEFT
+[LOG] 14:17:31 : Head Moved RIGHT
+[LOG] 14:17:32 : Blink Detected
+[LOG] 14:17:33 : Blink Detected
+[RESULT] 14:17:35 : REAL USER (LIVENESS PASSED)
+
