@@ -1,4 +1,4 @@
-Blink Detection Logic Documentation
+##Blink Detection Logic Documentation
 1. Overview
 
 The blink detection system identifies whether a user blinks their eyes in a live video stream captured through a webcam. The detection is performed using facial landmarks extracted by MediaPipe FaceMesh and the Eye Aspect Ratio (EAR) method.
