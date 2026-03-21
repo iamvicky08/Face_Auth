@@ -55,6 +55,121 @@ EAR = (||p2 - p6|| + ||p3 - p5||) / (2 * ||p1 - p4||)
 
 The Euclidean distance between these points is used for calculation.
 
+# 📐 EAR Calculation Using Given Eye Landmarks
+
+## 👁️ Given Landmarks
+
+### Left Eye:
+```
+[33, 160, 158, 133, 153, 144]
+```
+
+### Right Eye:
+```
+[362, 385, 387, 263, 373, 380]
+```
+
+---
+
+## 🔁 Mapping to EAR Points
+
+### Left Eye Mapping:
+```
+p1 = 33
+p2 = 160
+p3 = 158
+p4 = 133
+p5 = 153
+p6 = 144
+```
+
+### Right Eye Mapping:
+```
+p1 = 362
+p2 = 385
+p3 = 387
+p4 = 263
+p5 = 373
+p6 = 380
+```
+
+---
+
+## 📏 Distance Formula
+
+```
+d(pi, pj) = √((xj - xi)² + (yj - yi)²)
+```
+
+---
+
+## 📊 LEFT EYE EAR
+
+### Vertical Distances:
+```
+V1 = d(160, 144) = √((x144 - x160)² + (y144 - y160)²)
+
+V2 = d(158, 153) = √((x153 - x158)² + (y153 - y158)²)
+```
+
+### Horizontal Distance:
+```
+H = d(33, 133) = √((x133 - x33)² + (y133 - y33)²)
+```
+
+### LEFT EAR Formula:
+```
+EAR_left = (d(160,144) + d(158,153)) / (2 * d(33,133))
+```
+
+---
+
+## 📊 RIGHT EYE EAR
+
+### Vertical Distances:
+```
+V1 = d(385, 380) = √((x380 - x385)² + (y380 - y385)²)
+
+V2 = d(387, 373) = √((x373 - x387)² + (y373 - y387)²)
+```
+
+### Horizontal Distance:
+```
+H = d(362, 263) = √((x263 - x362)² + (y263 - y362)²)
+```
+
+### RIGHT EAR Formula:
+```
+EAR_right = (d(385,380) + d(387,373)) / (2 * d(362,263))
+```
+
+---
+
+## 📊 FINAL EAR
+
+```
+EAR = (EAR_left + EAR_right) / 2
+```
+
+---
+
+## 🧠 Interpretation
+
+```
+If EAR > 0.21  → Eye Open 👁️
+If EAR ≤ 0.21 → Eye Closed (Blink) 👁️
+```
+
+---
+
+## ✅ Conclusion
+
+- EAR is calculated using vertical and horizontal eye distances  
+- Uses MediaPipe landmark indices for both eyes  
+- Helps detect blinking for liveness verification  
+- Threshold-based decision makes it simple and efficient  
+
+
 ---
 
 ## ⚙️ Blink Detection Threshold
